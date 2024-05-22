@@ -1,9 +1,6 @@
-## Hi there 👋
+## Heyy theree ;)
 
-<!--
-**miri055/miri055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![](https://github.com/miri055/miri055/blob/main/ghibli.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
