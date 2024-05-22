@@ -1,8 +1,9 @@
-## Heyy theree ;)
+# hey theree 🐤
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
 
-![](https://github.com/miri055/miri055/blob/main/ghibli.gif)
-
-- 🔭 I’m currently working on ...
+I'm a tech enthusiast, pursuing Btech in computer science 💻,, 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
