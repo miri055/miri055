@@ -1,14 +1,45 @@
 # hey theree 🐤
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img height="300" width="600" alt="GIF" align="center" src="https://github.com/miri055/miri055/blob/main/ghibli(4).gif">
 </div>
 
-I'm a tech enthusiast, pursuing Btech in computer science 💻,, 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+</br>
+</br>
+
+# About ME 💬 :
+
+### - I'm Ananya, 18 years. Im a sophomore pursuing btech in computer science engineering. I love devOps.
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/miri055/miri055/blob/main/ghibli(5).gif">
+
+### - Learning :
+- 🤖 ML
+- 🖥️ Cloud computing
+
+### - Hobbies : 
+- 🧶 Crocheting
+- 🧁 baking 
+- 📚 Reading Novels (kafka>>)
+- 🛍️ Shopping :p
+
+</br>
+</br>
+</br>
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+<img height = 70 width = 70 src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
+<img height = 70 width = 70  src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg">
+<img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
+<img height = 50 width = 50 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
+<img height = 70 width = 70 src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original-wordmark.svg">
+</br>
+<img height = 70 width = 70 src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+<img height = 70 width = 70 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+<img height = 70 width = 70 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+
+
+<img height = 60 width = 60 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+
